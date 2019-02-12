@@ -1,0 +1,16 @@
+body {
+  background-color: #6D4C41;
+}
+
+.app-container {
+  text-align: center;
+}
+
+.app-tittle {
+  font-size: 1.4em;
+  margin: 0;
+  padding: 1em 0 0.5em 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #BCAAA4;
+  text-shadow: #3E2723 1px 1px;
+}

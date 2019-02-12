@@ -1,0 +1,15 @@
+.winner-box {
+  position: absolute;
+  display: none;
+  margin-top: -6%;
+}
+
+.winner-box.winner-box-visible {
+  display: block;
+}
+
+.winner-box img {
+  /* width: 30%; */
+  max-height: 300px;
+  margin-left: auto;
+}

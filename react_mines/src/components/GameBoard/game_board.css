@@ -1,0 +1,30 @@
+.game-board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.game-board__container {
+  display: inline-block;
+  position: relative;
+}
+.game-board__cells {
+  display: flex;
+  flex-direction: column;
+}
+
+.game-board__cells__row {
+  display: flex;
+}
+
+.game-board__options {
+  display: block;
+  margin: 1em 0px;
+}
+
+.game-board__options button {
+  padding: 0.5em 1em;
+  background-color: #689f38;
+  color: #3e2723;
+  font-size: 1em;
+  cursor: pointer;
+}
